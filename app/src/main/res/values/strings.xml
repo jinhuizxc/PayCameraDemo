@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PayCameraDemo</string>
+    <string name="face_tip">提示语</string>
+</resources>
